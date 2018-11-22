@@ -9,10 +9,10 @@
 | Home | [open](./layout_parts/home) |
 | User Details | [open](./layout_parts/user_details) |
 | Beneficary Details | [open](./layout_parts/beneficiary_details) |
-| Apply Saving accounts | [open](./layout_parts/apply_savings_accounts) |
+| Apply Saving accounts | [open](./layout_parts/apply_savings_account) |
 | Apply For Loan | [open](./layout_parts/apply_for_loan) |
 | Add Beneficiary / Select method | [open](./layout_parts/add_beneficiary) |
-| Add Beneficiary / Add manualy | [open](./layout_parts/add_beneficiary_manualy) |
+| Add Beneficiary / Add manualy | [open](./layout_parts/add_beneficary_manualy) |
 | Accounts, Share Account Details | [open](./layout_parts/account_details) |
 | Account Dashboard | [open](./layout_parts/account_dashboard) |
 | Surveys | [open](./layout_parts/surveys) |
