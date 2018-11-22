@@ -7,13 +7,12 @@
 | ----------- | --- |
 | Login | [open](./layout_parts/login) |
 | Home | [open](./layout_parts/home) |
-| User Details | [open](./layout_parts/home) |
-| Beneficary Details | [open](./layout_parts/beneficiary details) |
-| Saving accounts | [open](./layout_parts/saving_accounts) |
+| User Details | [open](./layout_parts/user_details) |
+| Beneficary Details | [open](./layout_parts/beneficiary_details) |
+| Apply Saving accounts | [open](./layout_parts/apply_savings_accounts) |
 | Apply For Loan | [open](./layout_parts/apply_for_loan) |
-| Apply Savings Account | [open](./layout_parts/apply_savings_account) |
-| Accounts, Share Account Detail | [open](./layout_parts/account_details) |
-| Account Dashboard | [open](./layout_parts/account_dashboard) |
 | Add Beneficiary / Select method | [open](./layout_parts/add_beneficiary) |
 | Add Beneficiary / Add manualy | [open](./layout_parts/add_beneficiary_manualy) |
+| Accounts, Share Account Details | [open](./layout_parts/account_details) |
+| Account Dashboard | [open](./layout_parts/account_dashboard) |
 | Surveys | [open](./layout_parts/surveys) |
