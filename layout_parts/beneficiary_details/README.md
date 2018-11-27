@@ -34,11 +34,11 @@ We have some data form which is consistent by its look and behaviour with the ot
 
 #### Name, Account Number, Transfer Limit, Head Office
 
-Editable text views, on focus works as same as the transfer limit input on the 3nd screen.
+Editable text views, on focus work as same as the transfer limit input on the 3rd screen.
 
 #### On tap
 
-1. Beneficiary Detials changes its mode to the **Edit Beneficiary** (visible on 3nd screen)
+1. Beneficiary Details change its mode to the **Edit Beneficiary** (visible on 3rd screen)
 2. Keyboard appears
 3. The input transform into edit text.
 4. Save button appears
