@@ -1,4 +1,4 @@
-<a href="" alt="Preview"><img src="https://i.imgur.com/baAvP3o.png" /></a>
+<a href="" alt="Preview"><img src="./preview.png" /></a>
 <h2 align="center"><b>MifosMobile UI/UX</b></h2>
 <h4 align="center">This repository contains all design files and design flow descriptions made due to the Google Code In 2018 tasks</h4>
 
